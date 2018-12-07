@@ -1,0 +1,20 @@
+﻿Build started 2/20/2016 2:55:24 PM.
+     1>Project "C:\Users\EZIO\Desktop\iGraphic1.2VS10\Final Game edit_2\Final Game edit\Final Game edit\iGraphic1.2VS10\iGraphic1.2VS10\iGraphic1.2VS10.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\iMain1.cpp
+         iMain1.cpp
+     1>c:\users\ezio\desktop\igraphic1.2vs10\final game edit_2\final game edit\final game edit\igraphic1.2vs10\igraphics.h(104): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\ezio\desktop\igraphic1.2vs10\final game edit_2\final game edit\final game edit\igraphic1.2vs10\imain1.cpp(1551): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\ezio\desktop\igraphic1.2vs10\final game edit_2\final game edit\final game edit\igraphic1.2vs10\imain1.cpp(1553): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\ezio\desktop\igraphic1.2vs10\final game edit_2\final game edit\final game edit\igraphic1.2vs10\imain1.cpp(1657): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EZIO\Desktop\iGraphic1.2VS10\Final Game edit_2\Final Game edit\Final Game edit\iGraphic1.2VS10\Debug\iGraphic1.2VS10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\EZIO\Desktop\iGraphic1.2VS10\Final Game edit_2\Final Game edit\Final Game edit\iGraphic1.2VS10\Debug\iGraphic1.2VS10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\EZIO\Desktop\iGraphic1.2VS10\Final Game edit_2\Final Game edit\Final Game edit\iGraphic1.2VS10\Debug\iGraphic1.2VS10.lib" /MACHINE:X86 Debug\iMain1.obj
+         iGraphic1.2VS10.vcxproj -> C:\Users\EZIO\Desktop\iGraphic1.2VS10\Final Game edit_2\Final Game edit\Final Game edit\iGraphic1.2VS10\Debug\iGraphic1.2VS10.exe
+     1>Done Building Project "C:\Users\EZIO\Desktop\iGraphic1.2VS10\Final Game edit_2\Final Game edit\Final Game edit\iGraphic1.2VS10\iGraphic1.2VS10\iGraphic1.2VS10.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15
